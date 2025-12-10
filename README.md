@@ -17,7 +17,7 @@ Advanced Roblox cookie checker with comprehensive account information retrieval.
 - 💰 **Robux Balance** - Check current Robux balance
 - ⭐ **Premium Status** - Verify if account has Roblox Premium
 - 📦 **Inventory Analysis** - Scan collectible items, hats, gear, faces, accessories, and clothing
-- 🎮 **Games History** - Retrieve games created by the user
+- 🎮 **User-Created Games** - Retrieve games created by the user
 - 👥 **Groups Information** - List all groups and roles
 - 👫 **Friends Count** - Get total number of friends
 - ⚡ **Multi-threaded Processing** - Fast checking with 2-3 concurrent threads

@@ -12,7 +12,7 @@ Features:
 - Robux balance checking
 - Premium status verification
 - Full inventory analysis
-- Recent games played
+- Games created by user
 - Groups information
 - Friends count
 - Multi-threaded processing
