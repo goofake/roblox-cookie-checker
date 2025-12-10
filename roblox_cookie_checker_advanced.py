@@ -178,13 +178,13 @@ class RobloxCookieChecker:
 
     def get_recent_games(self, limit: int = 10) -> List[Dict[str, Any]]:
         """
-        Retrieve recently played games.
+        Retrieve games created by the user.
 
         Args:
             limit (int): Maximum number of games to retrieve
 
         Returns:
-            List[Dict]: List of recent games
+            List[Dict]: List of games created by the user
         """
         if 'user_id' not in self.user_data:
             return []
